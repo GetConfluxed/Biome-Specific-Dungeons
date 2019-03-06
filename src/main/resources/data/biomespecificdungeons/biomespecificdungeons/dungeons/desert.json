@@ -1,0 +1,29 @@
+{
+  "identifier": "biomespecificdungeons:desert",
+  "wallBlocks": [
+    {
+      "block": "minecraft:sandstone",
+      "meta": 2
+    },
+    {
+      "block": "minecraft:sandstone",
+      "meta": 1,
+      "weight": 1
+    }
+  ],
+  "floorBlocks": [
+    {
+      "block": "minecraft:sandstone"
+    }
+  ],
+  "validBiomes": [
+    "minecraft:desert",
+    "minecraft:mutated_desert",
+    "minecraft:desert_hills"
+  ],
+  "lootTables": [
+    {
+      "lootTable": "minecraft:chests/desert_pyramid"
+    }
+  ]
+}

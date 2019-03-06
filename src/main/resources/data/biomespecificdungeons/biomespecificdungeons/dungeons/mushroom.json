@@ -1,0 +1,27 @@
+{
+  "identifier": "biomespecificdungeons:mushroom",
+  "wallBlocks": [
+    {
+      "block": "minecraft:brown_mushroom_block",
+      "meta": 14
+    },
+    {
+      "block": "minecraft:red_mushroom_block",
+      "meta": 14
+    }
+  ],
+  "floorBlocks": [
+    {
+      "block": "minecraft:mycelium"
+    }
+  ],
+  "validBiomes": [
+    "mushroom_island",
+    "mushroom_island_shore"
+  ],
+  "lootTables": [
+    {
+      "lootTable": "minecraft:chests/simple_dungeon"
+    }
+  ]
+}

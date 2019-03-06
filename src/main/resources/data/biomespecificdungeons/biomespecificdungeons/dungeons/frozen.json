@@ -1,0 +1,33 @@
+{
+  "identifier": "biomespecificdungeons:frozen",
+  "wallBlocks": [
+    {
+      "block": "minecraft:packed_ice"
+    },
+    {
+      "block": "minecraft:snow"
+    },
+    {
+      "block": "minecraft:ice"
+    }
+  ],
+  "floorBlocks": [
+    {
+      "block": "minecraft:snow"
+    },
+    {
+      "block": "minecraft:packed_ice"
+    }
+  ],
+  "validBiomes": [
+    "minecraft:ice_flats",
+    "minecraft:ice_mountains",
+    "minecraft:cold_beach",
+    "minecraft:mutated_ice_flats"
+  ],
+  "lootTables": [
+    {
+      "lootTable": "minecraft:chests/igloo_chest"
+    }
+  ]
+}

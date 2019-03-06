@@ -1,0 +1,6 @@
+{
+  "dungeons": [
+    "biomespecificdungeons:mushroom"
+  ],
+  "entity": "minecraft:mooshroom"
+}

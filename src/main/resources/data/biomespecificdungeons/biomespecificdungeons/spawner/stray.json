@@ -1,0 +1,6 @@
+{
+  "dungeons": [
+    "biomespecificdungeons:frozen"
+  ],
+  "entity": "minecraft:stray"
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "modid": "biomespecificdungeons",
+    "name": "Biome Specific Dungeons",
+    "description": "Adds different dungeons for biomes.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "TODO",
+    "updateUrl": "",
+    "authorList": [
+      "Darkhax"
+    ]
+  }
+]

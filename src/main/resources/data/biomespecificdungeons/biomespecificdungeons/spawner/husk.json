@@ -1,0 +1,6 @@
+{
+  "dungeons": [
+    "biomespecificdungeons:desert"
+  ],
+  "entity": "minecraft:husk"
+}
