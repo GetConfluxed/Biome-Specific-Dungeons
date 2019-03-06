@@ -5,7 +5,7 @@
     "description": "Adds different dungeons for biomes.",
     "version": "${version}",
     "mcversion": "${mcversion}",
-    "url": "TODO",
+    "url": "https://minecraft.curseforge.com/projects/biome-specific-dungeons",
     "updateUrl": "",
     "authorList": [
       "Darkhax"
