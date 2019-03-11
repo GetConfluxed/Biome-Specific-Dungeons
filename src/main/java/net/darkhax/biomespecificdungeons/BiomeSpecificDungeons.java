@@ -12,7 +12,7 @@ import net.minecraftforge.fml.common.Mod.EventHandler;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
-@Mod(modid = BiomeSpecificDungeons.MODID, name = BiomeSpecificDungeons.NAME, acceptableRemoteVersions = "*", version = "@VERSION@", certificateFingerprint = "@FINGERPRINT@")
+@Mod(modid = BiomeSpecificDungeons.MODID, name = BiomeSpecificDungeons.NAME, acceptableRemoteVersions = "*", dependencies = "required-after:bookshelf@[2.3.577,)", version = "@VERSION@", certificateFingerprint = "@FINGERPRINT@")
 public class BiomeSpecificDungeons {
     
     // Properties
